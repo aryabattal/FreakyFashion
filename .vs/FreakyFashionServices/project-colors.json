@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "423f42f9-0ee3-4c82-b6b8-72d01b2e7af4": {
+      "ProjectGuid": "423f42f9-0ee3-4c82-b6b8-72d01b2e7af4",
+      "DisplayName": "FreakyFashionServices.StockService",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "642f4d93-3eda-4412-a3a3-fefba5f12edc": {
+      "ProjectGuid": "642f4d93-3eda-4412-a3a3-fefba5f12edc",
+      "DisplayName": "FreakyFashionServices.CatalogService",
+      "ColorIndex": 1
+    },
+    "a0150cef-4bae-4619-9d9a-420dd37cfc4d": {
+      "ProjectGuid": "a0150cef-4bae-4619-9d9a-420dd37cfc4d",
+      "DisplayName": "FreakyFashionServices.BasketService",
+      "ColorIndex": 2
+    },
+    "6f849304-ef86-47bd-b2d0-60140af76a21": {
+      "ProjectGuid": "6f849304-ef86-47bd-b2d0-60140af76a21",
+      "DisplayName": "FreakyFashionServices.OrderService",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

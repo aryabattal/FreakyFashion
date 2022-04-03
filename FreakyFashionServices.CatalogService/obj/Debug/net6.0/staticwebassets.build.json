@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "w8NVmv0I7zXJ/GHOz/UvkmZPcqF9OLrlnikDFmotFzs=",
+  "Source": "FreakyFashionServices.CatalogService",
+  "BasePath": "_content/FreakyFashionServices.CatalogService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\workspace\\ECUtbildning\\FreakyFashionServices\\FreakyFashionServices.OrderService\\FreakyFashionServices.OrderService.csproj",
+      "Version": 2,
+      "Source": "FreakyFashionServices.OrderService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
